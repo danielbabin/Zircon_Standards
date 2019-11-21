@@ -4,10 +4,8 @@ channels:
     - defaults
 dependencies:
     - python=3.7    # Python version 3.7
-    - basemap       # mapping package
     - ipython       # IPython interpreter and tools
     - jupyter       # Jupyter federation architecture
-    - jupyterlab    # Jupyter Lab environment
     - matplotlib    # 2D plotting library
     - pandas        # Labeled array library
     - seaborn       # Statistical visualizations
