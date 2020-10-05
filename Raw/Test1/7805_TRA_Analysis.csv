@@ -1,0 +1,127 @@
+VERSION: 1.7
+Date: "12:22:04 06/11/2019"
+ID: 007331
+Original Filename: "M-40-400.nef"
+Analysis Description: ""
+Session: "TRA Session"
+Run: "M-40-400"
+Sample Type: "Sample"
+Sample ID: ""
+Sample Info: ""
+Scanning Mode: 1
+Scanning Options: 67305472
+Switch Delay: 3
+Num. Cycles: 10000
+Num. Sweeps: 40
+Resolution: 300
+Num. Hi-Res Steps: 0
+Mass To Center On: 0
+Threshold: 1000
+IC Deadtime: 0.00000001
+IC Attenuation Factor: 253.51
+IC Faraday Factor: 0.76
+Peak Integration Window Size:  100 
+Servo Integration Time: 0.1
+TRA Integration Time: 0.00001
+Defl Scan Integration Time: 0.00001
+Concentration: 0.000001
+Dilution: 00000E00
+Scanning Window Factor: 150
+Park Mass: "205.514492"
+Step Voltage: 0
+Is Standard: 0
+Edit DwellTime: 0.0004
+Edit Reduction Factor: 0
+NICE Filename: ""
+Calibration Filename: ""
+Tune Filename: ""
+Num. Masses: 7
+Masses
+Item: 	Hg(202)
+	Mass: 201.970632
+	Atom_Id: 80
+	Isotope_Index: 6
+	DwellTime: 40
+	Reduction_Factor: 0
+	Concentration: 0.000001
+	Defl1: 15.85283
+	Q1: 0
+	Q2: -4.522758
+	END
+Item: 	Pb(204)
+	Mass: 203.973037
+	Atom_Id: 82
+	Isotope_Index: 1
+	DwellTime: 40
+	Reduction_Factor: 0
+	Concentration: 0.000001
+	Defl1: 6.321164
+	Q1: 0
+	Q2: -6.031509
+	END
+Item: 	Pb(206)
+	Mass: 205.974455
+	Atom_Id: 82
+	Isotope_Index: 2
+	DwellTime: 80
+	Reduction_Factor: 0
+	Concentration: 0.000001
+	Defl1: -2.965979
+	Q1: 0
+	Q2: -7.441719
+	END
+Item: 	Pb(207)
+	Mass: 206.975885
+	Atom_Id: 82
+	Isotope_Index: 3
+	DwellTime: 200
+	Reduction_Factor: 0
+	Concentration: 0.000001
+	Defl1: -7.526246
+	Q1: 0
+	Q2: -8.111009
+	END
+Item: 	Pb(208)
+	Mass: 207.976041
+	Atom_Id: 82
+	Isotope_Index: 4
+	DwellTime: 40
+	Reduction_Factor: 0
+	Concentration: 0.000001
+	Defl1: -12.02493
+	Q1: 0
+	Q2: -8.755425
+	END
+Item: 	Th(232)
+	Mass: 232.0380538
+	Atom_Id: 90
+	Isotope_Index: 3
+	DwellTime: 40
+	Reduction_Factor: 1
+	Concentration: 0.000001
+	Defl1: -107.561
+	Q1: 0
+	Q2: -17.53359
+	END
+Item: 	U(238)
+	Mass: 238.050786
+	Atom_Id: 92
+	Isotope_Index: 6
+	DwellTime: 40
+	Reduction_Factor: 1
+	Concentration: 0.000001
+	Defl1: -128.8963
+	Q1: 0
+	Q2: -18.04361
+	END
+Num. Mass Groups: 1
+Mass Groups
+Item: 	1
+	Park Mass: 205.514492
+	Start Mass: 201.970632
+	End Mass: 238.050786
+	Start Mass Index: 1
+	End Mass Index: 7
+	END
+Num. Sections: 0
+Sections

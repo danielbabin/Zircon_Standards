@@ -1,0 +1,94 @@
+VERSION: 1.7
+Date: "13:22:38 21/07/2020"
+ID: 007549
+Original Filename: "21Jul20.nef"
+Analysis Description: ""
+Session: "TRA Session"
+Run: "21Jul20"
+Sample Type: "Sample"
+Sample ID: ""
+Sample Info: ""
+Scanning Mode: 1
+Scanning Options: 67305472
+Switch Delay: 3
+Num. Cycles: 10000
+Num. Sweeps: 10
+Resolution: 300
+Num. Hi-Res Steps: 0
+Mass To Center On: 0
+Threshold: 1000
+IC Deadtime: 0.00000001
+IC Attenuation Factor: 253.51
+IC Faraday Factor: 0.76
+Peak Integration Window Size:  100 
+Servo Integration Time: 0.1
+TRA Integration Time: 0.00001
+Defl Scan Integration Time: 0.00001
+Concentration: 0.000001
+Dilution: 00000E00
+Scanning Window Factor: 150
+Park Mass: "218.326236"
+Step Voltage: 0
+Is Standard: 0
+Edit DwellTime: 0.002
+Edit Reduction Factor: 0
+NICE Filename: ""
+Calibration Filename: ""
+Tune Filename: ""
+Num. Masses: 4
+Masses
+Item: 	Pb(206)
+	Mass: 205.974455
+	Atom_Id: 82
+	Isotope_Index: 2
+	DwellTime: 200
+	Reduction_Factor: 0
+	Concentration: 0.000001
+	Defl1: 56.94466
+	Q1: 0
+	Q2: 2.622876
+	END
+Item: 	Pb(207)
+	Mass: 206.975885
+	Atom_Id: 82
+	Isotope_Index: 3
+	DwellTime: 200
+	Reduction_Factor: 0
+	Concentration: 0.000001
+	Defl1: 51.92833
+	Q1: 0
+	Q2: 1.695092
+	END
+Item: 	Pb(208)
+	Mass: 207.976041
+	Atom_Id: 82
+	Isotope_Index: 4
+	DwellTime: 200
+	Reduction_Factor: 0
+	Concentration: 0.000001
+	Defl1: 46.97849
+	Q1: 0
+	Q2: 0.7953907
+	END
+Item: 	U(238)
+	Mass: 238.050786
+	Atom_Id: 92
+	Isotope_Index: 6
+	DwellTime: 200
+	Reduction_Factor: 0
+	Concentration: 0.000001
+	Defl1: -78.10737
+	Q1: 0
+	Q2: -15.95879
+	END
+Num. Mass Groups: 1
+Mass Groups
+Item: 	1
+	Park Mass: 218.326236
+	Start Mass: 205.974455
+	End Mass: 238.050786
+	Start Mass Index: 1
+	End Mass Index: 4
+	END
+Num. Sections: 0
+Sections
